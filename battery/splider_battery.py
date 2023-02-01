@@ -11,4 +11,4 @@ class SpliderBattery(Battery, ABC):
 
     # needs service after 2 years
     def needs_service(self) -> bool:
-        return self.current_date.year - self.last_service_charge.year > 2
+        return self.current_date.year - self.last_service_charge.year > 3
