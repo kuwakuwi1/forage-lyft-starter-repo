@@ -8,3 +8,6 @@ This repo has everything you need to get started on the program, good luck!
 - Add engine and battery field in Car class
 - move car model folder out of engine folder and change the implementation to match the Car class
 - create the CarFactory class to implement the factory pattern
+
+- Add test cases for engine concrete classes
+- Add test cases for battery concrete classes
