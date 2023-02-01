@@ -1,5 +1,5 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Lyft Forage Virtual Experience
+This repo is exercise media for Virtual Experience (Short Internship) program at [forage.com](forage.com), join forage and try it yourself.
 
 ## Changes were made:
 - Add base Engine interface and implement it in every engine models
