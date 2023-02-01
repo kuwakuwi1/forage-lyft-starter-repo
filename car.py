@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod
+from abc import ABC
 
 from serviceable import Serviceable
 from engine.base import Engine
