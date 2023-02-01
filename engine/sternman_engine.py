@@ -1,6 +1,6 @@
 from abc import ABC
 
-from engine import Engine
+from engine.base import Engine
 
 
 class SternmanEngine(Engine, ABC):
