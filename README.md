@@ -1,5 +1,5 @@
 # Lyft Forage Virtual Experience
-This repo is exercise media for Virtual Experience (Short Internship) program at [forage.com](forage.com), join forage and try it yourself.
+This repo is exercise media for Virtual Experience (Short Internship) program at [Forage](theforage.com), join forage and try it yourself.
 
 ## Changes were made:
 Task 2:
